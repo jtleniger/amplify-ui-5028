@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/protected">Protected Route</RouterLink>
-        <RouterLink to="/signin"></RouterLink>
+        <RouterLink to="/signin">Sign In</RouterLink>
       </nav>
     </div>
   </header>
